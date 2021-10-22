@@ -14,3 +14,6 @@ cd /d %pfad%
 echo
 echo Ihre Ergebnisse:
 dir *.%typ%
+
+rem Link zum vollständigen Artikel 
+rem https://it-learner.de/batch-datentypen-finden/

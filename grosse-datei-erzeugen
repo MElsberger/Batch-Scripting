@@ -1,0 +1,3 @@
+echo so lässt sich eine Datei mit 1 GB erstellen 
+
+fsutil file createnew c:\test.txt 1073741824
